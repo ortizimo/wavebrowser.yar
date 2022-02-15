@@ -3,7 +3,7 @@
 rule find_wavebrowser
 {					
 	meta:
-		author = "Saulo 'Sal' Ortiz, Sr. Cyber Forensics Analyst"
+		author = "Saulo 'Sal' Ortiz, Sr. Cyber Forensics Analyst, ATG"
 		description = "Simple scan for WaveBrowser indicators"
     		reference = "https://github.com/ortizimo/wavebrowser.yar/blob/main/code"
 		date = "2021-12-11"
