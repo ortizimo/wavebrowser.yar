@@ -1,5 +1,3 @@
-// 	run with -sgr flags / best results when forensic image is mounted
-
 rule find_wavebrowser
 {					
 	meta:
